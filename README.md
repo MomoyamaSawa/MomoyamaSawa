@@ -12,7 +12,7 @@
 ❤️ 草薙寧々 ❤️
 </p>
 <p align = 'center'>
-🎮 プロセカ&Galgame
+🎮 プロセカ & Galgame
 </p>
 <p align = 'center'>
 🌟 画师妈妈都是美少女!!!
