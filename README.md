@@ -31,7 +31,6 @@
 
  <img align="center" alt="GIF" src="./nene.gif" width="100%"/>
  
- <iframe src="https://www.bilibili.com/video/BV17o4y1H7KX/?spm_id_from=333.999.0.0&vd_source=d3899528e0974a56ad27004e4f9fec03" scrolling="no" border="0" height="500" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### 会玩的
 
