@@ -29,11 +29,13 @@
   <a href="https://t.me/MomoyamaSawa"><code><img height="20" width="20" src="./telegram.svg"></code></a>
 </p>
 
-### 技术栈
+### 计划栈
+
+- [] text
 
 ### 开源项目
 
 ### Github 活跃度
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomoyamaSawa&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoyamaSawa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomoyamaSawa&show_icons=true)
