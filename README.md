@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:MomoyamaSawa?theme=rule34">
 
-## 想和斯黛拉姐姐玩耍的うさぎ🐇✨
+## 想被斯黛拉姐姐享用的うさぎ🐇✨
 
 是一个只深爱二次元的兔兔~
 
