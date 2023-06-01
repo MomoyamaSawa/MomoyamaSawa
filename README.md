@@ -7,11 +7,24 @@
   <p align='center'>是一个只深爱二次元的兔兔，有什么关于二次元的想做的可以找我鸭~</p>
 </p>
 
-❤️ 草薙寧々 ❤️<br>
-🎮 プロセカ&Galgame <br>
-🌟 画师妈妈都是美少女!!! <br>
-🌈 中文&English&日本語(弱うw)⭕ <br>
+<p align = 'center'>
+❤️ 草薙寧々 ❤️
+</p>
+<p align = 'center'>
+🎮 プロセカ&Galgame
+</p>
+<p align = 'center'>
+🌟 画师妈妈都是美少女!!!
+</p>
+<p align = 'center'>
+🌈 中文&English&日本語(弱うw)
+</p>
+<p align = 'center'>
 📫 momoyama.sawa@gmail.com <br>
+</p>
+<p align = 'center'>
+  <a href="https://twitter.com/MomoyamaSawa"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
+</p>
 
 ### 技术栈
 
