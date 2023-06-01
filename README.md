@@ -3,8 +3,8 @@
 
 <p align = 'center'>
   <img width='140' src='./nene.png'>
-  <h2 align='center'>想被斯黛拉姐姐享用的うさぎ🐇✨</h2>
-  <p align='center'>是一个只深爱二次元的兔兔，有什么想做的可以找我鸭~</p>
+  <h2 align='center'>想被斯黛拉姐姐享用的兔兔酱🐇✨</h2>
+  <p align='center'>是一个只深爱二次元的兔兔，可以一起发电交流，有什么想做的也可以找我鸭~</p>
 </p>
 
 <p align = 'center'>
