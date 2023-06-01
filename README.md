@@ -29,19 +29,19 @@
   <a href="https://t.me/MomoyamaSawa"><code><img height="20" width="20" src="./telegram.svg"></code></a>
 </p>
 
-### 技术栈
+### 会玩的
 
 - [x] c/c++
 - [x] python
 - [x] sql 
 - [x] 简单爬虫
-- [x] 简单AI 
+- [x] 简单AI，AI语音，AI唱歌
 - [x] pyqt应用前端
 - [x] django后端
 - [x] unity  
 - [x] 公众号文章排版
 
-### TODO
+### 想玩的
 
 - [ ] 做一个自己的主页
 - [ ] 宁宁生日做点好玩的！
