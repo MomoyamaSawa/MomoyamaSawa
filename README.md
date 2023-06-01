@@ -4,7 +4,7 @@
 <p align = 'center'>
   <img width='140' src='./nene.png'>
   <h2 align='center'>想被斯黛拉姐姐享用的兔兔酱🐇✨</h2>
-  <p align='center'>是一个只深爱二次元的兔兔，可以一起发电交流，有什么想做的也可以找我鸭~</p>
+  <p align='center'>是一只偏爱朦胧月光的兔兔，你愿意做我通往🌙的梯子吗，深爱二次元，可以一起发电，有什么想做的也可以找我鸭~</p>
 </p>
 
 <p align = 'center'>
@@ -17,7 +17,7 @@
 🌟 画师妈妈都是美少女!!!
 </p>
 <p align = 'center'>
-🌈 中文&English&日本語(弱うw)
+🌈 中文&English(weak)&日本語(弱うw)
 </p>
 <p align = 'center'>
 📫 momoyama.sawa@gmail.com <br>
