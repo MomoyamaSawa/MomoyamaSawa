@@ -1,5 +1,5 @@
 
-<img align="center" src="https://count.getloli.com/get/@:MomoyamaSawa?theme=rule34">
+<img align = 'center' src="https://count.getloli.com/get/@:MomoyamaSawa?theme=rule34">
 
 <p align = 'center'>
   <img width='140' src='https://avatars.githubusercontent.com/u/104294483?v=4'>
@@ -27,14 +27,15 @@
   <a href="https://space.bilibili.com/351154098"><code><img height="20" width="20" src="./bilibili.svg"></code></a>
   <a href="https://momoyamasawa.notion.site/Personal-Home-71cb1fab5c8c477285d2144847bbfbb6"><code><img height="20" width="20" src="./notion.svg"></code></a>
   <a href="https://t.me/MomoyamaSawa"><code><img height="20" width="20" src="./telegram.svg"></code></a>
-  <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=3169540007&website=www.oicqzone.com"><code><img height="20" width="20" src="./tencentqq.svg"></code></a>
 </p>
 
 ### 技术栈
+
+### 开源项目
 
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=MomoyamaSawa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![MomoyamaSawa's github stats](https://github-readme-stats.vercel.app/api?username=MomoyamaSawa&show_icons=true&theme=vue)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoyamaSawa&layout=compact&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoyamaSawa&layout=compact&langs_count=5)
