@@ -18,7 +18,7 @@
 🌟 画师妈妈都是美少女!!!
 </p>
 <p align = 'center'>
-🌈 中文&English(weak)&日本語(弱うw)
+🌈 中文 & English(weak) & 日本語(弱うw) ⭕
 </p>
 <p align = 'center'>
 📫 momoyama.sawa@gmail.com <br>
