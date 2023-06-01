@@ -2,7 +2,7 @@
 <img align = 'center' src="https://count.getloli.com/get/@:MomoyamaSawa?theme=rule34">
 
 <p align = 'center'>
-  <img width='140' src='https://avatars.githubusercontent.com/u/104294483?v=4'>
+  <img width='140' src='./nene.png'>
   <h2 align='center'>想被斯黛拉姐姐享用的うさぎ🐇✨</h2>
   <p align='center'>是一个只深爱二次元的兔兔，有什么想做的可以找我鸭~</p>
 </p>
