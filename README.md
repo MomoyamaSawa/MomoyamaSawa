@@ -54,13 +54,11 @@
 - [ ] 全AI虚拟偶像
 - [ ] 女装×
 
-### 开源的
+### 我做的
 
-<a href="https://github.com/MomoyamaSawa/OS_PageStorage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=OS_PageStorage" />
-</a>
 
-### Github的
+### Github先生的
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoyamaSawa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomoyamaSawa&show_icons=true)
