@@ -29,6 +29,10 @@
   <a href="https://t.me/MomoyamaSawa"><code><img height="20" width="20" src="./telegram.svg"></code></a>
 </p>
 
+ <img align="center" alt="GIF" src="./nene.gif" width="100%"/>
+ 
+ <iframe src="https://www.bilibili.com/video/BV17o4y1H7KX/?spm_id_from=333.999.0.0&vd_source=d3899528e0974a56ad27004e4f9fec03" scrolling="no" border="0" height="500" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 ### 会玩的
 
 - [x] c/c++
@@ -51,13 +55,13 @@
 - [ ] 全AI虚拟偶像
 - [ ] 女装×
 
-### 开源项目
+### 开源的
 
 <a href="https://github.com/MomoyamaSawa/OS_PageStorage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=OS_PageStorage" />
 </a>
 
-### Github 活跃度
+### Github的
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MomoyamaSawa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MomoyamaSawa&show_icons=true)
