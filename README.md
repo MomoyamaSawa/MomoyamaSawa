@@ -29,11 +29,33 @@
   <a href="https://t.me/MomoyamaSawa"><code><img height="20" width="20" src="./telegram.svg"></code></a>
 </p>
 
-### 计划栈
+### 技术栈
 
-- [] text
+- [x] c/c++
+- [x] python
+- [x] sql 
+- [x] 简单爬虫
+- [x] 简单AI 
+- [x] pyqt应用前端
+- [x] django后端
+- [x] unity  
+- [x] 公众号文章排版
+
+### TODO
+
+- [ ] 做一个自己的主页
+- [ ] 宁宁生日做点好玩的！
+- [ ] 强化学习打pjsk
+- [ ] 一个自己的TGBot
+- [ ] 建模二次元老婆
+- [ ] 全AI虚拟偶像
+- [ ] 女装×
 
 ### 开源项目
+
+<a href="https://github.com/MomoyamaSawa/OS_PageStorage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=OS_PageStorage" />
+</a>
 
 ### Github 活跃度
 
