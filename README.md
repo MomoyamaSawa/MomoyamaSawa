@@ -2,10 +2,10 @@
 <img align = 'center' src="https://count.getloli.com/get/@:MomoyamaSawa?theme=rule34">
 
 <p align = 'center'>
-  <img width='140' src='./nene.png'>
-  <h2 align='center'>说话像猫猫的兔兔🐇✨</h2>
+  <img width='140' src='./Aerith.png'>
+  <h2 align='center'>爱喵喵叫的兔兔🐇✨</h2>
   <p align='center'>是一只偏爱月光的兔兔，客官是否愿意为兔兔搭起通往🌙的梯子呢？</p>
-  <p align='center'>深爱二次元，可以一起发电，有什么想做的也可以找兔兔鸭~</p>
+  <p align='center'>深爱二次元，可以一起发电，有什么想做的也可以找兔兔喵~</p>
 </p>
 
 <p align = 'center'>
@@ -31,7 +31,7 @@
   <a href="https://t.me/MomoyamaSawa"><code><img height="20" width="20" src="./telegram.svg"></code></a>
 </p>
 
- <img align="center" alt="GIF" src="./nene.gif" width="100%"/>
+ <img align="center" alt="GIF" src="./Aerith.gif" width="100%"/>
  
 
 ### 会玩的
@@ -60,6 +60,9 @@
 - [ ] 女装×🥺
 
 ### 我做的
+<a href="https://github.com/MomoyamaSawa/OS_xv6-labs-2021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=OS_xv6-labs-2021" />
+</a>
 <a href="https://github.com/MomoyamaSawa/OS_PageStorage">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=OS_PageStorage" />
 </a>
