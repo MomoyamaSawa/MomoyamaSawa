@@ -24,6 +24,9 @@
 📫 momoyama.sawa@gmail.com <br>
 </p>
 <p align = 'center'>
+🍉 18↑
+</p>
+<p align = 'center'>
   <a href="https://twitter.com/MomoyamaSawa"><code><img height="20" width="20" src="./twitter.svg"></code></a>
   <a href="https://space.bilibili.com/351154098"><code><img height="20" width="20" src="./bilibili.svg"></code></a>
   <a href="https://momoyamasawa.notion.site/Personal-Home-71cb1fab5c8c477285d2144847bbfbb6"><code><img height="20" width="20" src="./notion.svg"></code></a>
