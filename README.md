@@ -48,6 +48,8 @@
 - [x] django后端
 - [x] unity  
 - [x] 公众号文章排版
+- [x] js/html/css
+- [x] VUE3 
 
 ### 想玩的
 
@@ -63,11 +65,8 @@
 - [ ] 女装×🥺
 
 ### 我做的
-<a href="https://github.com/MomoyamaSawa/OS_xv6-labs-2021">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=OS_xv6-labs-2021" />
-</a>
-<a href="https://github.com/MomoyamaSawa/OS_PageStorage">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=OS_PageStorage" />
+<a href="https://github.com/MomoyamaSawa/MSA_WebAPIs_VirtualPet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=MSA_WebAPIs_VirtualPet" />
 </a>
 <a href="https://github.com/MomoyamaSawa/OS_FileSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=OS_FileSystem" />
