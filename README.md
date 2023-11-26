@@ -3,9 +3,9 @@
 
 <p align = 'center'>
   <img width='140' src='./nene.png'>
-  <h2 align='center'>爱喵喵叫的兔兔🐇✨</h2>
+  <h2 align='center'>うさぎ🐇✨</h2>
   <p align='center'>是一只偏爱月光的兔兔，客官是否愿意为兔兔搭起通往🌙的梯子呢？</p>
-  <p align='center'>深爱二次元，可以一起发电，有什么想做的也可以找兔兔喵~</p>
+  <p align='center'>二次元お宅，可以一起发电，有什么想做的也可以找兔兔喵~</p>
 </p>
 
 <p align = 'center'>
