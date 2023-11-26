@@ -29,7 +29,7 @@
 <p align = 'center'>
   <a href="https://twitter.com/MomoyamaSawa"><code><img height="20" width="20" src="./twitter.svg"></code></a>
   <a href="https://space.bilibili.com/351154098"><code><img height="20" width="20" src="./bilibili.svg"></code></a>
-  <a href="https://momoyamasawa.notion.site/3fa3298772204dff9be227289a95db26?pvs=4"><code><img height="20" width="20" src="./notion.svg"></code></a>
+  <a href="momoyama.works"><code><img height="20" width="20" src="./notion.svg"></code></a>
   <a href="https://www.youtube.com/@momoyama_sawa"><code><img height="20" width="20" src="./youtube.svg"></code></a>
   <a href="https://t.me/MomoyamaSawa"><code><img height="20" width="20" src="./telegram.svg"></code></a>
 </p>
