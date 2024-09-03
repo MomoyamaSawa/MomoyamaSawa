@@ -1,12 +1,12 @@
-
 <img align = 'center' src="https://count.getloli.com/get/@:MomoyamaSawa?theme=rule34">
 
 <p align = 'center'>
-  <img width='140' src='./nene.png'>
+  <img width='140' src='./yanami.png'>
   <h2 align='center'>うさぎ🐇✨</h2>
-  <p align='center'>是一只偏爱月光的兔兔，客官是否愿意为兔兔搭起通往🌙的梯子呢？</p>
+  <p align='center'>是一只喜欢月光的兔兔，梦想有人能搭起通往🌙的梯子</p>
   <p align='center'>二次元お宅，可以一起发电，有什么想做的也可以找兔兔喵~</p>
 </p>
+
 
 <p align = 'center'>
 ❤️ 草薙寧々 ❤️
@@ -34,42 +34,15 @@
   <a href="https://t.me/MomoyamaSawa"><code><img height="20" width="20" src="./telegram.svg"></code></a>
 </p>
 
- <img align="center" alt="GIF" src="./nene.gif" width="100%"/>
- 
-
-### 会玩的
-
-- [x] c/c++
-- [x] python
-- [x] sql 
-- [x] 简单爬虫
-- [x] 简单AI，AI语音，AI唱歌
-- [x] pyqt应用前端
-- [x] django后端
-- [x] unity  
-- [x] 公众号文章排版
-- [x] js/html/css
-- [x] VUE3 
-
-### 想玩的
-
-- [ ] 学前端做一个自己的主页
-- [ ] 宁宁生日做点好玩的！
-- [ ] UE5
-- [ ] 赴日留学
-- [ ] 画画！！！自给自足（
-- [ ] 强化学习打pjsk
-- [ ] 一个自己的TGBot
-- [ ] 建模二次元美少女
-- [ ] 全AI虚拟偶像
-- [ ] 女装×🥺
+ <img align="center" alt="GIF" src="./yanami.gif" width="100%"/>
 
 ### 我做的
+
 <a href="https://github.com/MomoyamaSawa/MSA_WebAPIs_VirtualPet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=MSA_WebAPIs_VirtualPet" />
 </a>
-<a href="https://github.com/MomoyamaSawa/OS_FileSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=OS_FileSystem" />
+<a href="https://github.com/MomoyamaSawa/OS_PageStorage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MomoyamaSawa&repo=OS_PageStorage" />
 </a>
 
 ### Github先生的
