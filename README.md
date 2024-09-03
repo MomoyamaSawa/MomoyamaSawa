@@ -9,7 +9,7 @@
 
 
 <p align = 'center'>
-❤️ 草薙寧々 ❤️
+❤️ 八奈見杏奈 ❤️
 </p>
 <p align = 'center'>
 🎮 プロセカ & Galgame & 各种单机
@@ -33,6 +33,7 @@
   <a href="https://www.youtube.com/@momoyama_sawa"><code><img height="20" width="20" src="./youtube.svg"></code></a>
   <a href="https://t.me/MomoyamaSawa"><code><img height="20" width="20" src="./telegram.svg"></code></a>
 </p>
+
 
  <img align="center" alt="GIF" src="./yanami.gif" width="100%"/>
 
