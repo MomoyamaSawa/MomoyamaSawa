@@ -4,11 +4,11 @@
   <img align="center" width='140' src='./mikuchan.jpg'>
 </div>
 
-<h2 align="center">うさぎ 🐇✨</h2>
+<h1 align="center">うさぎ 🐇✨</h1>
 
-<div align="center">
+<div align="center" style="font-size: 24px;">
   <p><b>🌈 I collect anime-style art/illustrations</b></p>
-  <p><b>🌟 Visual Novels & Anime & Vocaloid <br>& Infinity Nikki & Project Sekai & Blue Archive <br>& Cosplay & Various Single-player Games</b></p>
+  <p><b>🌟 Visual Novels & Anime & Vocaloid & Infinity Nikki & Project Sekai & Blue Archive <br>& Cosplay & Various Single-player Games</b></p>
   <p><b>💬 中文 (404) & English (terrible.jpg) & 日本語 (食べません！) ⭕</b></p>
   <p><b>🏡 momoyamasawa.notion.site</b></p>
   <p><b>📫 momoyama.work@outlook.com</b></p>
