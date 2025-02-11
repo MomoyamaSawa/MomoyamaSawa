@@ -1,4 +1,4 @@
-<img height="100" src="https://count.getloli.com/get/@:MomoyamaSawa?theme=rule34">
+<img height="80" src="https://count.getloli.com/get/@:MomoyamaSawa?theme=rule34">
 
 <div align="center">
   <img align="center" width='120' src='./mikuchan.jpg'>
