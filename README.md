@@ -6,7 +6,7 @@
 
 <h1 align="center">うさぎ 🐇✨</h1>
 
-<div align="center" style="font-size: 24px;">
+<div align="center" style="font-size: 64px;">
   <p><b>🌈 I collect anime-style art/illustrations</b></p>
   <p><b>🌟 Visual Novels & Anime & Vocaloid & Infinity Nikki & Project Sekai & Blue Archive <br>& Cosplay & Various Single-player Games</b></p>
   <p><b>💬 中文 (404) & English (terrible.jpg) & 日本語 (食べません！) ⭕</b></p>
