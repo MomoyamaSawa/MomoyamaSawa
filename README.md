@@ -10,7 +10,7 @@
   <p><b>🌈 I collect anime-style art/illustrations</b></p>
   <p><b>🌟 Visual Novels & Anime & Vocaloid & Infinity Nikki & Project Sekai & Blue Archive & Cosplay & Various Single-player Games</b></p>
   <p><b>💬 中文 (404) & English (terrible.jpg) & 日本語 (食べません！) ⭕</b></p>
-  <p><b>🏡 momoyamasawa.notion.site&nbsp;&nbsp;&nbsp;&nbsp;📫 momoyama.work@outlook.com&nbsp;&nbsp;&nbsp;&nbsp;🎂 20↑</b></p>
+  <p><b>🏡 momoyama-homepage.notion.site&nbsp;&nbsp;&nbsp;&nbsp;📫 momoyama.work@outlook.com&nbsp;&nbsp;&nbsp;&nbsp;🎂 20↑</b></p>
   <p>
     <a href="https://discord.gg/CyBApus9"><img height="20" width="20" src="./discord.svg"></a>&nbsp;&nbsp;
     <a href="https://x.com/MomoyamaSawa?s=09"><img height="20" width="20" src="./x.svg"></a>&nbsp;&nbsp;
